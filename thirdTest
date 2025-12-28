@@ -1,4 +1,8 @@
 this is third test
 changes i made bla bla bla
 testing conflict again
+<<<<<<< HEAD
 bye bye
+=======
+heleo
+>>>>>>> feature-1
