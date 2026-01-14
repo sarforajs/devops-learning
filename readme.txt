@@ -1,3 +1,1 @@
-My Devops Git journey
-change from master
-change from feature-login 
+pull Request practice
